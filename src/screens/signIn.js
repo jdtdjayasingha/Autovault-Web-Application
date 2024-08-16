@@ -12,7 +12,7 @@ function App() {
         <p className='login-sub-title'>Create account</p>
         <input className='login-input' placeholder='User Name' />
         <input className='login-input' placeholder='Password' />
-        <input className='login-input' placeholder='Password' />
+        <input className='login-input' placeholder='Confirm Password' />
         <button className='login-button'>Sign UP</button>
         <p className='up-in-account'>Already have an account</p>
         <a href='#' className='up-in-link'>Sign In</a>
